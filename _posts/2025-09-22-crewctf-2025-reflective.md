@@ -4,7 +4,7 @@ date: 2025-09-22 23:30:00 +0300
 categories: [CTF, Web]
 tags: [CrewCTF, .NET, Reflection, DynamicLINQ, RCE, Writeup]
 description: "Writeup for Reflective (Web) challenge from CrewCTF 2025 where I discussed two unintended solutions."
-image: /assets/img/ctf/CrewCTF.png
+image: /assets/img/ctf/CrewCTF.svg
 ---
 
 ## TL;DR
