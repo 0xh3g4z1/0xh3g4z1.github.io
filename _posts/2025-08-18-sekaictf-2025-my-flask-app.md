@@ -4,6 +4,7 @@ date: 2025-08-18 23:30:00 +0300
 categories: [CTF, Web]
 tags: [SekaiCTF, Flask, LFI, RCE, Writeup]
 description: "1st Place – SekaiCTF 2025 Writeup Contest."
+image: /assets/img/ctf/SekaiCTF.svg
 ---
 
 ## TL;DR
