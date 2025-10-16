@@ -1,9 +1,9 @@
 ---
 title: "SekaiCTF 2025 – My Flask App (Web)"
 date: 2025-08-18 23:30:00 +0300
-categories: [CTF, Web]
-tags: [SekaiCTF, Flask, LFI, RCE, Writeup]
-description: "1st Place – SekaiCTF 2025 Writeup Contest."
+categories: [CTF]
+tags: [Web, SekaiCTF, Flask, LFI, RCE, Writeup]
+description: "Writeup for My Flask App (Web) challenge from SekaiCTF 2025. 1st Place – SekaiCTF 2025 Writeup Contest."
 image: /assets/img/ctf/SekaiCTF.svg
 ---
 
