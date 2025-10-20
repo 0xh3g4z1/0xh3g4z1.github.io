@@ -24,7 +24,7 @@ description: "My personal corner on the internet where I share my journey — do
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://0xh3g4z1.github.io"
+url: "https://0xh3g4z1.xyz"
 
 github:
   username: 0xh3g4z1 # change to your GitHub username
@@ -35,7 +35,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 0xh3g4z1
+  name: 0xh3g41
   email: kamalhegazi.dev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
