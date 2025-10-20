@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 0xH3G4Z1 # the main title
+title: 0xh3g4z1 # the main title
 
 tagline:
 
@@ -35,7 +35,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 0xH3G4Z1
+  name: 0xh3g4z1
   email: kamalhegazi.dev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
