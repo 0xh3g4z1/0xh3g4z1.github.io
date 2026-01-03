@@ -4,12 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-CSIT student at the **Egypt-Japan University of Science and Technology (E-JUST)** with a strong passion for **information technology, cybersecurity, and competitive programming**. I’m deeply motivated by the challenge of solving complex technical problems and continuously seek opportunities to grow through hands-on learning, collaboration, and competition.
+I am a **CSIT student at the Egypt-Japan University of Science and Technology (E-JUST)** with a strong passion for **information technology, cybersecurity, and competitive programming**. I thrive on tackling complex technical challenges and continuously seek growth through **hands-on learning, collaboration, and competition**.
 
-As an active member of **Team W4llz**, I participate in Capture The Flag (CTF) competitions and contribute as a **security content writer**. I’ve played in several international events, including **SekaICTF 2025** and **CrewCTF 2025**. My areas of focus include **web exploitation, reverse engineering, and OSINT**, and I particularly enjoy developing detailed write-ups to help others understand the deeper mechanics of modern attack and defense techniques.
+As an active member of **Team W4llz**, I regularly participate in **Capture The Flag (CTF)** competitions and contribute as a **security content writer**. I have competed in multiple international events, including **SekaICTF 2025** and **CrewCTF 2025**, with a focus on **web exploitation, reverse engineering, and OSINT**. I particularly enjoy crafting **in-depth technical write-ups** that break down attack vectors and defensive mechanisms to make advanced concepts more accessible to others.
 
-I’m also a **competitive programmer** with **Team Mission Semicolon**, where I’ve honed my problem-solving, algorithmic thinking, and teamwork skills. Our team proudly **qualified for ECPC 2025**, reflecting our continuous commitment to learning and strategic preparation.
+In parallel, I am a **competitive programmer** with **Team Mission Semicolon**, where I have strengthened my **algorithmic thinking, problem-solving skills, and teamwork** under high-pressure environments. Our team’s **qualification for ECPC 2025** reflects our disciplined preparation and commitment to continuous improvement.
 
-I currently work as a **Security Content Engineer at MetaCTF**, contributing to challenge development, educational content, and hands-on cybersecurity learning experiences.
+I currently work as a **Security Content Engineer at MetaCTF**, contributing to **challenge design, educational cybersecurity content, and hands-on learning experiences** aimed at developing real-world security skills.
 
-My broader goal is to **bridge the gap between theoretical knowledge and practical cybersecurity**, with interests spanning **ethical hacking, system security, cryptography, and network defense**. I aim to contribute to the cybersecurity community through **research, technical writing, and building secure, innovative systems**.
+My long-term goal is to **bridge the gap between theoretical knowledge and practical cybersecurity**. My interests span **ethical hacking, system and network security, cryptography, and applied defense techniques**, and I aspire to contribute to the cybersecurity community through **research, technical writing, and building secure, innovative systems**.
