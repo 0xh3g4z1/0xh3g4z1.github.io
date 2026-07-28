@@ -2,7 +2,7 @@
 title: "CrewCTF 2025 – Reflective (Web)"
 date: 2025-09-22 23:30:00 +0300
 categories: [CTF]
-tags: [Web, CrewCTF, .NET, Reflection, DynamicLINQ, RCE, Writeup]
+tags: [Webex, CrewCTF, .NET, Reflection, DynamicLINQ, RCE, Writeup]
 description: "Writeup for Reflective (Web) challenge from CrewCTF 2025 where I discussed two unintended solutions."
 ---
 
